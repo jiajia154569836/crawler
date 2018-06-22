@@ -1,0 +1,2039 @@
+http://hotels.ctrip.com/hotel/375265.html?isFull=F 北京京都信苑饭店 北京西站、丽泽商务区西单、金融街地区 659 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/691682.html?isFull=F 北京大方饭店 北京西站、丽泽商务区西单、金融街地区 438 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/2231618.html?isFull=F 北京东直门亚朵S酒店 国展中心地区东直门、工体、雍和宫地区 882  
+http://hotels.ctrip.com/hotel/457242.html?isFull=F 北京外国专家大厦 亚运村、奥体中心地区中关村、五道口 788 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/433114.html?isFull=F 北京和平里宾馆 国展中心地区亚运村、奥体中心地区 398 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/5972725.html?isFull=F 秋果酒店(北京五棵松店) 公主坟、五棵松、石景山游乐园地区地图 1388 亲子酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/8105721.html?isFull=F 时光漫步怀旧主题酒店(北京国贸劲松店) 劲松、潘家园地区国贸地区 464 亲子酒店 
+http://hotels.ctrip.com/hotel/452197.html?isFull=F 北京丽景湾国际酒店 国贸地区燕莎、三里屯商业区 1188 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/939388.html?isFull=F 北京国二招宾馆(东楼) 西直门及北京展览馆地区西单、金融街地区 658 亲子酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/608345.html?isFull=F 北京天坛饭店 前门、崇文门商贸区北京站、建国门地区 458 浪漫情侣 
+http://hotels.ctrip.com/hotel/4536895.html?isFull=F 北京万斯酒店 首都机场、新国展地区地图 340 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/439311.html?isFull=F 北京渔阳饭店 东直门、工体、雍和宫地区燕莎、三里屯商业区 629 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/431617.html?isFull=F 北京长白山国际酒店 亚运村、奥体中心地区望京、酒仙桥、798地区 608 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/1641390.html?isFull=F 北京VUE后海酒店 后海、南锣鼓巷地区天安门、王府井地区 1388 四合院休闲度假 
+http://hotels.ctrip.com/hotel/374800.html?isFull=F 北京翔达国际商务酒店 西单、金融街地区天安门、王府井地区 529 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/2215343.html?isFull=F 北京诺金酒店 望京、酒仙桥、798地区地图 1213 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/9444856.html?isFull=F 北京奥体中心亚朵酒店 亚运村、奥体中心地区国展中心地区 836 亲子酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/1725911.html?isFull=F 桔子水晶酒店(北京安贞店) 马甸、安贞地区亚运村、奥体中心地区 598 浪漫情侣 
+http://hotels.ctrip.com/hotel/444199.html?isFull=F 北京金色夏日商务酒店 西单、金融街地区天安门、王府井地区 449 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/456474.html?isFull=F 北京在之禾度假酒店(原紫玉度假酒店) 亚运村、奥体中心地区地图 1049 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/429548.html?isFull=F 北京香格里拉饭店 西直门及北京展览馆地区地图 1525 园林建筑浪漫情侣 
+http://hotels.ctrip.com/hotel/6508621.html?isFull=F 北京建国门亚朵轻居酒店 北京站、建国门地区国贸地区 589 浪漫情侣 
+http://hotels.ctrip.com/hotel/980123.html?isFull=F 北京梅地亚中心 公主坟、五棵松、石景山游乐园地区西单、金融街地区 456 园林建筑休闲度假 
+http://hotels.ctrip.com/hotel/1422167.html?isFull=F 北京骏马国际酒店 中关村、五道口马甸、安贞地区 888 浪漫情侣 
+http://hotels.ctrip.com/hotel/482534.html?isFull=F 飘HOME连锁酒店(北京华贸店) 国贸地区燕莎、三里屯商业区 275  
+http://hotels.ctrip.com/hotel/14131570.html?isFull=F 秋果公寓(北京望京798艺术区店) 望京、酒仙桥、798地区地图 628  
+http://hotels.ctrip.com/hotel/5754064.html?isFull=F 北京三元桥亚朵酒店 燕莎、三里屯商业区地图 698 浪漫情侣 
+http://hotels.ctrip.com/hotel/7514902.html?isFull=F 北京云逸酒店 首都机场、新国展地区果园环岛、通州区 328 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/427151.html?isFull=F 北京东交民巷饭店 天安门、王府井地区前门、崇文门商贸区 538 亲子酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/467314.html?isFull=F 北京工大建国饭店 劲松、潘家园地区国贸地区 756 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/15718417.html?isFull=F 北京君颐百合主题酒店 大兴农业生态观光区地图 478 浪漫情侣 
+http://hotels.ctrip.com/hotel/445313.html?isFull=F 北京西国贸大酒店 北京西站、丽泽商务区总部基地、丰台体育中心、南宫地区 686 园林建筑浪漫情侣 
+http://hotels.ctrip.com/hotel/1249518.html?isFull=F 北京金枫酒店 望京、酒仙桥、798地区首都机场、新国展地区 488 浪漫情侣 
+http://hotels.ctrip.com/hotel/9557111.html?isFull=F 秋果公寓(北京西直门交通大学店)(原秋果酒店) 西直门及北京展览馆地区中关村、五道口 477 亲子酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/429173.html?isFull=F 北京四季御园国际大酒店 香山、八大处风景区中关村、五道口 368 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/457112.html?isFull=F 北京行宫国际酒店 燕莎、三里屯商业区国贸地区 898 温泉酒店浪漫情侣 
+http://hotels.ctrip.com/hotel/469749.html?isFull=F 北京玛雅岛酒店 总部基地、丰台体育中心、南宫地区北京西站、丽泽商务区 686 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/1837777.html?isFull=F 桔子酒店·精选(北京三元桥店) 国展中心地区燕莎、三里屯商业区 503  
+http://hotels.ctrip.com/hotel/456342.html?isFull=F 北京国泰饭店 国贸地区北京站、建国门地区 550 浪漫情侣 
+http://hotels.ctrip.com/hotel/1251776.html?isFull=F 北京华泰饭店 劲松、潘家园地区前门、崇文门商贸区 287 浪漫情侣 
+http://hotels.ctrip.com/hotel/457234.html?isFull=F 北京华尔顿酒店(原鸿坤国际大酒店) 北京西站、丽泽商务区西单、金融街地区 283 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1563509.html?isFull=F XY酒店公寓(北京金茂府店) 国贸地区劲松、潘家园地区 696 公寓浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/4716578.html?isFull=F 北京雾灵山庄 密云风景区地图 508 休闲度假商务出行 
+http://hotels.ctrip.com/hotel/5226364.html?isFull=F 如家精选酒店(北京东四店) 天安门、王府井地区东直门、工体、雍和宫地区 579 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/803817.html?isFull=F 北京中谷酒店(原金谷琪珑酒店) 北京站、建国门地区前门、崇文门商贸区 349 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2642089.html?isFull=F 北京美第奇精选酒店 首都机场、新国展地区地图 206 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/701641.html?isFull=F 北京雍景台酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 455  
+http://hotels.ctrip.com/hotel/1602274.html?isFull=F 北京中国石化会议中心 十三陵水库、居庸关长城风景区地图 612 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/1816847.html?isFull=F 桔子酒店·精选(北京亚运村店) 亚运村、奥体中心地区马甸、安贞地区 541  
+http://hotels.ctrip.com/hotel/1285546.html?isFull=F 北京工体A.Hotel酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 496 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1008154.html?isFull=F 北京商都酒店 永定门、南站、大红门、南苑地区前门、崇文门商贸区 428 浪漫情侣 
+http://hotels.ctrip.com/hotel/9293254.html?isFull=F 漫心酒店(北京前门四合院店) 前门、崇文门商贸区天安门、王府井地区 1329 四合院 
+http://hotels.ctrip.com/hotel/1726454.html?isFull=F 瑞尔威连锁饭店(北京西客站店) 北京西站、丽泽商务区地图 588 浪漫情侣 
+http://hotels.ctrip.com/hotel/2703098.html?isFull=F 北京天坛和颐酒店 永定门、南站、大红门、南苑地区前门、崇文门商贸区 467 浪漫情侣 
+http://hotels.ctrip.com/hotel/760206.html?isFull=F 北京四季天成酒店 前门、崇文门商贸区永定门、南站、大红门、南苑地区 338 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1067773.html?isFull=F 北京圆山大酒店 马甸、安贞地区亚运村、奥体中心地区 439 浪漫情侣 
+http://hotels.ctrip.com/hotel/485588.html?isFull=F 北京国谊宾馆 西直门及北京展览馆地区西单、金融街地区 528  
+http://hotels.ctrip.com/hotel/447443.html?isFull=F 飘HOME连锁酒店(北京西客站店) 北京西站、丽泽商务区地图 186  
+http://hotels.ctrip.com/hotel/473871.html?isFull=F 北京古巷贰拾号艺术酒店 后海、南锣鼓巷地区天安门、王府井地区 748 四合院浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/13598382.html?isFull=F 桔子酒店·精选(北京光明桥店) 前门、崇文门商贸区地图 503 浪漫情侣 
+http://hotels.ctrip.com/hotel/1056339.html?isFull=F 北京易尚诺林大酒店 北京西站、丽泽商务区地图 348 商务出行 
+http://hotels.ctrip.com/hotel/442287.html?isFull=F 北京天泰宾馆 西单、金融街地区地图 638 浪漫情侣 
+http://hotels.ctrip.com/hotel/457215.html?isFull=F 北京远洋酒店 天安门、王府井地区前门、崇文门商贸区 506 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2301928.html?isFull=F 桔子酒店(北京西直门北店) 西直门及北京展览馆地区地图 503  
+http://hotels.ctrip.com/hotel/1477161.html?isFull=F 北京中油宾馆(海淀分部)(原梦溪宾馆) 中关村、五道口地图 480 浪漫情侣 
+http://hotels.ctrip.com/hotel/5448700.html?isFull=F 希岸酒店(北京三里屯店) 燕莎、三里屯商业区东直门、工体、雍和宫地区 528 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/6492450.html?isFull=F 三只熊轻奢度假别墅(北京古北龙湖源著店) 密云风景区地图 448 宠物友好 
+http://hotels.ctrip.com/hotel/429492.html?isFull=F 北京凯盛兴丰国际酒店 首都机场、新国展地区地图 298 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2175163.html?isFull=F 北京友方宾馆 天安门、王府井地区西单、金融街地区 550 四合院浪漫情侣 
+http://hotels.ctrip.com/hotel/6064754.html?isFull=F 北京贯通建徽酒店 北京西站、丽泽商务区西单、金融街地区 389  
+http://hotels.ctrip.com/hotel/2298288.html?isFull=F 人民大会堂宾馆 天安门、王府井地区前门、崇文门商贸区 1680 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/744581.html?isFull=F 北京中油宾馆 马甸、安贞地区地图 338 浪漫情侣 
+http://hotels.ctrip.com/hotel/1994702.html?isFull=F 桔子酒店·精选(北京学院路店) 中关村、五道口亚运村、奥体中心地区 607 浪漫情侣 
+http://hotels.ctrip.com/hotel/1806143.html?isFull=F 桔子酒店·精选(北京官园桥店) 西单、金融街地区西直门及北京展览馆地区 503 浪漫情侣 
+http://hotels.ctrip.com/hotel/1466503.html?isFull=F 北京金泰绿洲大酒店 永定门、南站、大红门、南苑地区前门、崇文门商贸区 338 浪漫情侣 
+http://hotels.ctrip.com/hotel/1386419.html?isFull=F 北京观山邸酒店 怀柔风景区地图 310 休闲度假 
+http://hotels.ctrip.com/hotel/1776800.html?isFull=F 轻联富润饭店(北京菜市口店) 西单、金融街地区地图 389  
+http://hotels.ctrip.com/hotel/1828164.html?isFull=F 桔子酒店·精选(北京亦庄万源街店) 亦庄地区地图 389 浪漫情侣 
+http://hotels.ctrip.com/hotel/5656624.html?isFull=F XY酒店公寓(北京东直门簋街店) 东直门、工体、雍和宫地区燕莎、三里屯商业区 520 公寓浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/374786.html?isFull=F 北京金台夕照酒店 前门、崇文门商贸区北京站、建国门地区 576 四合院浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/998168.html?isFull=F 倪氏海泰大酒店(北京四季青店) 中关村、五道口西直门及北京展览馆地区 497 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/1836273.html?isFull=F 桔子水晶酒店(北京崇文门店) 前门、崇文门商贸区地图 702 浪漫情侣 
+http://hotels.ctrip.com/hotel/1994607.html?isFull=F 北京兵团大厦 北京西站、丽泽商务区西单、金融街地区 598  
+http://hotels.ctrip.com/hotel/2259027.html?isFull=F XY酒店公寓(北京三里屯店) 东直门、工体、雍和宫地区燕莎、三里屯商业区 520 公寓浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/456444.html?isFull=F 北京空港远航国际酒店 首都机场、新国展地区地图 308 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2108742.html?isFull=F 北京麦语云栖精品度假别墅 密云风景区地图 3016 别墅休闲度假 
+http://hotels.ctrip.com/hotel/1816428.html?isFull=F 桔子酒店·精选(北京五棵松店) 公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区 493 浪漫情侣 
+http://hotels.ctrip.com/hotel/1732963.html?isFull=F 北京东四饭店 天安门、王府井地区前门、崇文门商贸区 228  
+http://hotels.ctrip.com/hotel/8178705.html?isFull=F 北京童年假日优选酒店 首都机场、新国展地区地图 244 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2137115.html?isFull=F 北京行者居酒店 劲松、潘家园地区永定门、南站、大红门、南苑地区 396 浪漫情侣 
+http://hotels.ctrip.com/hotel/1217748.html?isFull=F 北京万寿庄宾馆 公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区 546 园林建筑休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/4035013.html?isFull=F 北京城南旧事精品文化酒店 北京西站、丽泽商务区西单、金融街地区 418 四合院浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/447616.html?isFull=F 飘HOME连锁酒店(北京前门大栅栏店) 前门、崇文门商贸区地图 874  
+http://hotels.ctrip.com/hotel/13366625.html?isFull=F 如家精选酒店(北京五棵松店) 公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区 455 浪漫情侣 
+http://hotels.ctrip.com/hotel/1860548.html?isFull=F 北京国宾大厦 望京、酒仙桥、798地区燕莎、三里屯商业区 318 浪漫情侣 
+http://hotels.ctrip.com/hotel/793625.html?isFull=F 北京海南大厦 国展中心地区东直门、工体、雍和宫地区 486 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/5293044.html?isFull=F 桔子酒店·精选(北京亦庄荣京西街店) 亦庄地区地图 427 浪漫情侣 
+http://hotels.ctrip.com/hotel/4033968.html?isFull=F 北京新世界如家酒店式公寓 前门、崇文门商贸区地图 674 公寓宠物友好 
+http://hotels.ctrip.com/hotel/6435487.html?isFull=F 桔子酒店·精选(北京天坛店) 劲松、潘家园地区前门、崇文门商贸区 493 浪漫情侣 
+http://hotels.ctrip.com/hotel/2605097.html?isFull=F 桔子酒店·精选(北京亦庄同济南路店) 亦庄地区地图 398 浪漫情侣 
+http://hotels.ctrip.com/hotel/1537661.html?isFull=F 北京布提克精品酒店 首都机场、新国展地区地图 222 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2298536.html?isFull=F 北京赢家商务酒店 中关村、五道口地图 428 浪漫情侣 
+http://hotels.ctrip.com/hotel/3733282.html?isFull=F 桔子酒店·精选(北京西二旗店) 上地产业园、西三旗地图 550 浪漫情侣 
+http://hotels.ctrip.com/hotel/8019672.html?isFull=F 北京金岳台精品温泉酒店 十三陵水库、居庸关长城风景区地图 626 休闲度假浪漫情侣宠物友好 
+http://hotels.ctrip.com/hotel/1609664.html?isFull=F 北京塔里木石油酒店 亚运村、奥体中心地区中关村、五道口 488 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/7339240.html?isFull=F 魔尔公寓(北京魏公村店) 西直门及北京展览馆地区中关村、五道口 623  
+http://hotels.ctrip.com/hotel/9667001.html?isFull=F 桔子酒店·精选(北京大望路店) 劲松、潘家园地区欢乐谷游乐区 531 浪漫情侣 
+http://hotels.ctrip.com/hotel/6473120.html?isFull=F 北京空港蓝湾国际酒店 首都机场、新国展地区地图 306 商务出行 
+http://hotels.ctrip.com/hotel/763324.html?isFull=F 北京西荣阁酒店 西直门及北京展览馆地区公主坟、五棵松、石景山游乐园地区 459 浪漫情侣 
+http://hotels.ctrip.com/hotel/6066094.html?isFull=F 北京三里明月酒店 西单、金融街地区北京西站、丽泽商务区 680 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2043832.html?isFull=F 桔子水晶酒店(北京总部基地店) 总部基地、丰台体育中心、南宫地区地图 579 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/5772681.html?isFull=F 北京三里屯R-KISS时尚精品酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 596 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1816619.html?isFull=F 桔子酒店·精选(北京西直门店) 西直门及北京展览馆地区西单、金融街地区 598 浪漫情侣 
+http://hotels.ctrip.com/hotel/2301427.html?isFull=F 北京美逸商务酒店 国贸地区北京站、建国门地区 448 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1009315.html?isFull=F 北京铂郡酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 438  
+http://hotels.ctrip.com/hotel/1015572.html?isFull=F 北京首都机场丽豪商务酒店 首都机场、新国展地区地图 179 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/7426874.html?isFull=F 全季酒店(北京石景山万达西店)(原八角游乐园店) 公主坟、五棵松、石景山游乐园地区总部基地、丰台体育中心、南宫地区 465 浪漫情侣 
+http://hotels.ctrip.com/hotel/1273120.html?isFull=F 北京君颐润华酒店 北京西站、丽泽商务区地图 628 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/697540.html?isFull=F 贯通现代酒店(北京国展店) 国展中心地区东直门、工体、雍和宫地区 321 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1701265.html?isFull=F 北京上园饭店 西直门及北京展览馆地区地图 468 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/698732.html?isFull=F 北京可丽亚宾馆 燕莎、三里屯商业区地图 308  
+http://hotels.ctrip.com/hotel/1816376.html?isFull=F 桔子酒店·精选(北京天宁寺店) 北京西站、丽泽商务区西单、金融街地区 522 浪漫情侣 
+http://hotels.ctrip.com/hotel/1436736.html?isFull=F 北京华风宾馆 天安门、王府井地区前门、崇文门商贸区 855 浪漫情侣 
+http://hotels.ctrip.com/hotel/1497663.html?isFull=F 北京河北迎宾馆 天安门、王府井地区东直门、工体、雍和宫地区 950 四合院 
+http://hotels.ctrip.com/hotel/447575.html?isFull=F 北京君颐东方饭店 公主坟、五棵松、石景山游乐园地区地图 150 浪漫情侣 
+http://hotels.ctrip.com/hotel/481108.html?isFull=F 北京山水宾馆 西单、金融街地区天安门、王府井地区 839 浪漫情侣 
+http://hotels.ctrip.com/hotel/469544.html?isFull=F 北京瑞安宾馆 天安门、王府井地区前门、崇文门商贸区 739 浪漫情侣 
+http://hotels.ctrip.com/hotel/1837769.html?isFull=F 桔子酒店·精选(北京望京店) 望京、酒仙桥、798地区地图 550 浪漫情侣 
+http://hotels.ctrip.com/hotel/391750.html?isFull=F 北京四季酒店 燕莎、三里屯商业区东直门、工体、雍和宫地区 1667 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1198297.html?isFull=F 北京瑰丽酒店 国贸地区东直门、工体、雍和宫地区 1868 温泉酒店园林建筑 
+http://hotels.ctrip.com/hotel/429203.html?isFull=F 北京励骏酒店 天安门、王府井地区西单、金融街地区 1262 四合院园林建筑 
+http://hotels.ctrip.com/hotel/428586.html?isFull=F 北京新世纪日航饭店 西直门及北京展览馆地区地图 658 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/374787.html?isFull=F 北京新侨诺富特饭店 天安门、王府井地区地图 518 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/427807.html?isFull=F 北京长富宫饭店 北京站、建国门地区国贸地区 795 园林建筑休闲度假 
+http://hotels.ctrip.com/hotel/374781.html?isFull=F 北京首都大酒店 天安门、王府井地区地图 1084 浪漫情侣 
+http://hotels.ctrip.com/hotel/749504.html?isFull=F 北京百富怡大酒店 东直门、工体、雍和宫地区地图 838 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/9215536.html?isFull=F 北京泛太平洋酒店 西单、金融街地区天安门、王府井地区 1088 休闲度假亲子酒店 
+http://hotels.ctrip.com/hotel/434938.html?isFull=F 北京华滨国际大酒店 西单、金融街地区天安门、王府井地区 623 浪漫情侣 
+http://hotels.ctrip.com/hotel/437222.html?isFull=F 北京贵州大厦 国展中心地区亚运村、奥体中心地区 718 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/347426.html?isFull=F 北京东方君悦大酒店 天安门、王府井地区北京站、建国门地区 1277 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/431639.html?isFull=F 北京饭店 天安门、王府井地区前门、崇文门商贸区 1250 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/375511.html?isFull=F 北京万达文华酒店 国贸地区北京站、建国门地区 1336 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/391657.html?isFull=F 北京朝阳悠唐皇冠假日酒店 东直门、工体、雍和宫地区国贸地区 1056 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/429111.html?isFull=F 北京名人国际大酒店 亚运村、奥体中心地区马甸、安贞地区 806 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/427091.html?isFull=F 北京鹏润国际大酒店 燕莎、三里屯商业区国展中心地区 778 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/429527.html?isFull=F 北京崇文门饭店 前门、崇文门商贸区天安门、王府井地区 556 浪漫情侣 
+http://hotels.ctrip.com/hotel/375096.html?isFull=F 北京北辰五洲皇冠国际酒店 亚运村、奥体中心地区国展中心地区 1080 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/9371514.html?isFull=F 北京东直门雅辰悦居酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 898 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/6806947.html?isFull=F 北京宝格丽酒店 燕莎、三里屯商业区东直门、工体、雍和宫地区 3367 浪漫情侣 
+http://hotels.ctrip.com/hotel/375126.html?isFull=F 北京5L饭店(原国贸饭店) 国贸地区北京站、建国门地区 543 浪漫情侣 
+http://hotels.ctrip.com/hotel/5470464.html?isFull=F 北京三里屯CHAO酒店 东直门、工体、雍和宫地区国贸地区 2026 浪漫情侣 
+http://hotels.ctrip.com/hotel/347310.html?isFull=F 北京长城饭店 燕莎、三里屯商业区国贸地区 700 浪漫情侣 
+http://hotels.ctrip.com/hotel/14095879.html?isFull=F 北京上地CitiGOHouse酒店 上地产业园、西三旗中关村、五道口 436 浪漫情侣 
+http://hotels.ctrip.com/hotel/369745.html?isFull=F 北京希尔顿逸林酒店 北京西站、丽泽商务区地图 872 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/369708.html?isFull=F 北京首都机场希尔顿酒店 首都机场、新国展地区地图 1087 浪漫情侣 
+http://hotels.ctrip.com/hotel/735707.html?isFull=F 北京华尔道夫酒店 天安门、王府井地区西单、金融街地区 1886 四合院浪漫情侣 
+http://hotels.ctrip.com/hotel/429533.html?isFull=F 北京昆泰嘉华酒店 东直门、工体、雍和宫地区国贸地区 1067 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/1047921.html?isFull=F 古北水镇大酒店 密云风景区地图 1079 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/387045.html?isFull=F 北京金融街威斯汀大酒店 西单、金融街地区西直门及北京展览馆地区 1166 休闲度假亲子酒店 
+http://hotels.ctrip.com/hotel/443694.html?isFull=F 北京天伦松鹤大饭店 天安门、王府井地区东直门、工体、雍和宫地区 628 浪漫情侣 
+http://hotels.ctrip.com/hotel/374783.html?isFull=F 北京唐拉雅秀酒店 西单、金融街地区北京西站、丽泽商务区 803 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/431407.html?isFull=F 北京宣武门商务酒店 西单、金融街地区天安门、王府井地区 418 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/374795.html?isFull=F 北京伯豪瑞廷酒店 国贸地区地图 878 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/429158.html?isFull=F 北京贵宾楼饭店 天安门、王府井地区地图 1019 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/426113.html?isFull=F 北京世纪金源大饭店 西直门及北京展览馆地区中关村、五道口 896 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/436894.html?isFull=F 飘HOME连锁酒店(北京王府井店) 天安门、王府井地区前门、崇文门商贸区 298  
+http://hotels.ctrip.com/hotel/347414.html?isFull=F 北京希尔顿酒店 燕莎、三里屯商业区地图 1069 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/4889269.html?isFull=F 北京维景国际大酒店 国展中心地区燕莎、三里屯商业区 898 浪漫情侣 
+http://hotels.ctrip.com/hotel/763469.html?isFull=F 锦江之星(北京奥体中心店) 亚运村、奥体中心地区地图 408  
+http://hotels.ctrip.com/hotel/430030.html?isFull=F 北京宝辰饭店 北京站、建国门地区天安门、王府井地区 676 浪漫情侣 
+http://hotels.ctrip.com/hotel/374792.html?isFull=F 北京王府半岛酒店 天安门、王府井地区西单、金融街地区 2332 浪漫情侣 
+http://hotels.ctrip.com/hotel/374801.html?isFull=F 北京华威商务酒店 西单、金融街地区天安门、王府井地区 508 浪漫情侣 
+http://hotels.ctrip.com/hotel/374791.html?isFull=F 北京京伦饭店 国贸地区北京站、建国门地区 668 浪漫情侣 
+http://hotels.ctrip.com/hotel/5032132.html?isFull=F 北京泰富酒店 中关村、五道口亚运村、奥体中心地区 1427 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/429511.html?isFull=F 北京民族饭店 西单、金融街地区地图 597 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/837819.html?isFull=F 北京裕龙国际酒店 公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区 598 浪漫情侣 
+http://hotels.ctrip.com/hotel/347308.html?isFull=F 北京王府井希尔顿酒店 天安门、王府井地区西单、金融街地区 1411 浪漫情侣 
+http://hotels.ctrip.com/hotel/369675.html?isFull=F 北京国贸大酒店 国贸地区地图 1866 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/429503.html?isFull=F 北京丽都维景酒店 望京、酒仙桥、798地区燕莎、三里屯商业区 758 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/482983.html?isFull=F 北京前门建国饭店 前门、崇文门商贸区地图 498 浪漫情侣 
+http://hotels.ctrip.com/hotel/467325.html?isFull=F 北京亮马河饭店 燕莎、三里屯商业区地图 629 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/457172.html?isFull=F 北京元辰鑫国际酒店 马甸、安贞地区亚运村、奥体中心地区 598 浪漫情侣 
+http://hotels.ctrip.com/hotel/793504.html?isFull=F 北京凤凰苏源大厦 北京西站、丽泽商务区西单、金融街地区 332 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/444709.html?isFull=F 北京五洲大酒店 亚运村、奥体中心地区国展中心地区 880 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/427870.html?isFull=F 北京国际饭店 北京站、建国门地区地图 878 浪漫情侣 
+http://hotels.ctrip.com/hotel/375093.html?isFull=F 北京首都机场东海康得思酒店(原朗豪酒店) 首都机场、新国展地区地图 931 浪漫情侣 
+http://hotels.ctrip.com/hotel/375507.html?isFull=F 北京港澳中心瑞士酒店 东直门、工体、雍和宫地区天安门、王府井地区 757 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/345029.html?isFull=F 北京西单美爵酒店 西单、金融街地区地图 689 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/468844.html?isFull=F 北京大成路九号 公主坟、五棵松、石景山游乐园地区总部基地、丰台体育中心、南宫地区 658 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/419993.html?isFull=F 北京华侨大厦 天安门、王府井地区地图 749 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/2266278.html?isFull=F 北京麒麟外交公寓 东直门、工体、雍和宫地区国贸地区 836 浪漫情侣 
+http://hotels.ctrip.com/hotel/984991.html?isFull=F 北京中乐六星酒店 劲松、潘家园地区地图 687 浪漫情侣 
+http://hotels.ctrip.com/hotel/431897.html?isFull=F 北京涵珍园国际酒店 后海、南锣鼓巷地区天安门、王府井地区 1186 四合院园林建筑浪漫情侣 
+http://hotels.ctrip.com/hotel/436258.html?isFull=F 北京珀丽酒店 望京、酒仙桥、798地区地图 760 浪漫情侣 
+http://hotels.ctrip.com/hotel/437721.html?isFull=F 北京福建大厦 马甸、安贞地区亚运村、奥体中心地区 499 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/5659815.html?isFull=F 北京三里屯通盈中心洲际酒店 东直门、工体、雍和宫地区燕莎、三里屯商业区 2449 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/437440.html?isFull=F 北京乾元酒店 东直门、工体、雍和宫地区地图 799 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/427874.html?isFull=F 北京好苑建国酒店 北京站、建国门地区地图 656 浪漫情侣 
+http://hotels.ctrip.com/hotel/419951.html?isFull=F 北京柏悦酒店 国贸地区北京站、建国门地区 1636 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/452641.html?isFull=F 北京日坛宾馆 东直门、工体、雍和宫地区国贸地区 706 浪漫情侣 
+http://hotels.ctrip.com/hotel/431870.html?isFull=F 北京江西大酒店 劲松、潘家园地区地图 488 浪漫情侣 
+http://hotels.ctrip.com/hotel/895549.html?isFull=F 北京龙城温德姆酒店(原龙城丽宫国际酒店) 小汤山温泉度假区上地产业园、西三旗 905 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/443416.html?isFull=F 北京金龙建国温泉酒店 北京站、建国门地区国贸地区 638 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/429507.html?isFull=F 北京贵都大酒店 西单、金融街地区北京西站、丽泽商务区 698 浪漫情侣 
+http://hotels.ctrip.com/hotel/1707138.html?isFull=F 北京雁栖酒店 怀柔风景区地图 2660 园林建筑休闲度假 
+http://hotels.ctrip.com/hotel/429484.html?isFull=F 北京东煌凯丽酒店 望京、酒仙桥、798地区地图 626 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/447703.html?isFull=F 北京中国职工之家饭店 西单、金融街地区北京西站、丽泽商务区 586 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/6684925.html?isFull=F 全季酒店(北京首都机场店) 首都机场、新国展地区地图 493  
+http://hotels.ctrip.com/hotel/396427.html?isFull=F 北京东方花园饭店 东直门、工体、雍和宫地区地图 797 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/534568.html?isFull=F 北京首都机场国际酒店 首都机场、新国展地区地图 476 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/429044.html?isFull=F 北京泰悦豪庭酒店 燕莎、三里屯商业区地图 497 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/436078.html?isFull=F 北京十渡云泽山庄生态度假酒店 房山风景区地图 549 温泉酒店休闲度假 
+http://hotels.ctrip.com/hotel/457240.html?isFull=F 北京美泉宫饭店 公主坟、五棵松、石景山游乐园地区地图 592 休闲度假浪漫情侣 
+http://hotels.ctrip.com/hotel/457228.html?isFull=F 北京国宏宾馆 西单、金融街地区北京西站、丽泽商务区 489 浪漫情侣 
+http://hotels.ctrip.com/hotel/5910043.html?isFull=F 麗枫酒店(北京南站木樨园店) 永定门、南站、大红门、南苑地区地图 480 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/431651.html?isFull=F 北京香江戴斯酒店 天安门、王府井地区地图 416 四合院浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/1004421.html?isFull=F 全季酒店(北京东直门店) 东直门、工体、雍和宫地区地图 479 浪漫情侣 
+http://hotels.ctrip.com/hotel/345025.html?isFull=F 北京中奥马哥孛罗大酒店 亚运村、奥体中心地区地图 2085 浪漫情侣 
+http://hotels.ctrip.com/hotel/2285017.html?isFull=F 7天连锁酒店(北京首都机场店) 首都机场、新国展地区地图 210  
+http://hotels.ctrip.com/hotel/451176.html?isFull=F 北京世纪星豪酒店 中关村、五道口西直门及北京展览馆地区 370 浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/2277948.html?isFull=F 北京亚太花园酒店 果园环岛、通州区地图 512 休闲度假浪漫情侣商务出行 
+http://hotels.ctrip.com/hotel/443555.html?isFull=F 北京东方文苑宾馆(王府井店) 天安门、王府井地区前门、崇文门商贸区 275  
+http://hotels.ctrip.com/hotel/425031.html?isFull=F 北京丽亭酒店 天安门、王府井地区地图 991 浪漫情侣 
+http://hotels.ctrip.com/hotel/6410223.html?isFull=F 北京赛特饭店 北京站、建国门地区国贸地区 640  
+http://hotels.ctrip.com/hotel/1781207.html?isFull=F 北京亚美国际酒店 首都机场、新国展地区地图 200 浪漫情侣商务出行 
+<html>
+ <head></head>
+ <body></body>
+</html>
+<table>
+ <tr>
+  <th>序号</th>
+  <th>饭店链接</th>
+  <th>饭店名称</th>
+  <th>饭店地址</th>
+  <th>价格</th>
+  <th>主题</th>
+ </tr>
+ <tr>
+  <td>2-0</td>
+  <td>http://hotels.ctrip.com/hotel/375265.html?isFull=F</td>
+  <td>北京京都信苑饭店</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>2-1</td>
+  <td>http://hotels.ctrip.com/hotel/691682.html?isFull=F</td>
+  <td>北京大方饭店</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-2</td>
+  <td>http://hotels.ctrip.com/hotel/2231618.html?isFull=F</td>
+  <td>北京东直门亚朵S酒店</td>
+  <td>国展中心地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>2-3</td>
+  <td>http://hotels.ctrip.com/hotel/457242.html?isFull=F</td>
+  <td>北京外国专家大厦</td>
+  <td>亚运村、奥体中心地区中关村、五道口</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-4</td>
+  <td>http://hotels.ctrip.com/hotel/433114.html?isFull=F</td>
+  <td>北京和平里宾馆</td>
+  <td>国展中心地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>2-5</td>
+  <td>http://hotels.ctrip.com/hotel/5972725.html?isFull=F</td>
+  <td>秋果酒店(北京五棵松店)</td>
+  <td>公主坟、五棵松、石景山游乐园地区地图</td>
+  <td></td>
+  <td>亲子酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-6</td>
+  <td>http://hotels.ctrip.com/hotel/8105721.html?isFull=F</td>
+  <td>时光漫步怀旧主题酒店(北京国贸劲松店)</td>
+  <td>劲松、潘家园地区国贸地区</td>
+  <td></td>
+  <td>亲子酒店</td>
+ </tr>
+ <tr>
+  <td>2-7</td>
+  <td>http://hotels.ctrip.com/hotel/452197.html?isFull=F</td>
+  <td>北京丽景湾国际酒店</td>
+  <td>国贸地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-8</td>
+  <td>http://hotels.ctrip.com/hotel/939388.html?isFull=F</td>
+  <td>北京国二招宾馆(东楼)</td>
+  <td>西直门及北京展览馆地区西单、金融街地区</td>
+  <td></td>
+  <td>亲子酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-9</td>
+  <td>http://hotels.ctrip.com/hotel/608345.html?isFull=F</td>
+  <td>北京天坛饭店</td>
+  <td>前门、崇文门商贸区北京站、建国门地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-10</td>
+  <td>http://hotels.ctrip.com/hotel/4536895.html?isFull=F</td>
+  <td>北京万斯酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>2-11</td>
+  <td>http://hotels.ctrip.com/hotel/439311.html?isFull=F</td>
+  <td>北京渔阳饭店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>2-12</td>
+  <td>http://hotels.ctrip.com/hotel/431617.html?isFull=F</td>
+  <td>北京长白山国际酒店</td>
+  <td>亚运村、奥体中心地区望京、酒仙桥、798地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-13</td>
+  <td>http://hotels.ctrip.com/hotel/1641390.html?isFull=F</td>
+  <td>北京VUE后海酒店</td>
+  <td>后海、南锣鼓巷地区天安门、王府井地区</td>
+  <td></td>
+  <td>四合院休闲度假</td>
+ </tr>
+ <tr>
+  <td>2-14</td>
+  <td>http://hotels.ctrip.com/hotel/374800.html?isFull=F</td>
+  <td>北京翔达国际商务酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-15</td>
+  <td>http://hotels.ctrip.com/hotel/2215343.html?isFull=F</td>
+  <td>北京诺金酒店</td>
+  <td>望京、酒仙桥、798地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-16</td>
+  <td>http://hotels.ctrip.com/hotel/9444856.html?isFull=F</td>
+  <td>北京奥体中心亚朵酒店</td>
+  <td>亚运村、奥体中心地区国展中心地区</td>
+  <td></td>
+  <td>亲子酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-17</td>
+  <td>http://hotels.ctrip.com/hotel/1725911.html?isFull=F</td>
+  <td>桔子水晶酒店(北京安贞店)</td>
+  <td>马甸、安贞地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-18</td>
+  <td>http://hotels.ctrip.com/hotel/444199.html?isFull=F</td>
+  <td>北京金色夏日商务酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>2-19</td>
+  <td>http://hotels.ctrip.com/hotel/456474.html?isFull=F</td>
+  <td>北京在之禾度假酒店(原紫玉度假酒店)</td>
+  <td>亚运村、奥体中心地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-20</td>
+  <td>http://hotels.ctrip.com/hotel/429548.html?isFull=F</td>
+  <td>北京香格里拉饭店</td>
+  <td>西直门及北京展览馆地区地图</td>
+  <td></td>
+  <td>园林建筑浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-21</td>
+  <td>http://hotels.ctrip.com/hotel/6508621.html?isFull=F</td>
+  <td>北京建国门亚朵轻居酒店</td>
+  <td>北京站、建国门地区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-22</td>
+  <td>http://hotels.ctrip.com/hotel/980123.html?isFull=F</td>
+  <td>北京梅地亚中心</td>
+  <td>公主坟、五棵松、石景山游乐园地区西单、金融街地区</td>
+  <td></td>
+  <td>园林建筑休闲度假</td>
+ </tr>
+ <tr>
+  <td>2-23</td>
+  <td>http://hotels.ctrip.com/hotel/1422167.html?isFull=F</td>
+  <td>北京骏马国际酒店</td>
+  <td>中关村、五道口马甸、安贞地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>2-24</td>
+  <td>http://hotels.ctrip.com/hotel/482534.html?isFull=F</td>
+  <td>飘HOME连锁酒店(北京华贸店)</td>
+  <td>国贸地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>3-0</td>
+  <td>http://hotels.ctrip.com/hotel/14131570.html?isFull=F</td>
+  <td>秋果公寓(北京望京798艺术区店)</td>
+  <td>望京、酒仙桥、798地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>3-1</td>
+  <td>http://hotels.ctrip.com/hotel/5754064.html?isFull=F</td>
+  <td>北京三元桥亚朵酒店</td>
+  <td>燕莎、三里屯商业区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-2</td>
+  <td>http://hotels.ctrip.com/hotel/7514902.html?isFull=F</td>
+  <td>北京云逸酒店</td>
+  <td>首都机场、新国展地区果园环岛、通州区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-3</td>
+  <td>http://hotels.ctrip.com/hotel/427151.html?isFull=F</td>
+  <td>北京东交民巷饭店</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>亲子酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-4</td>
+  <td>http://hotels.ctrip.com/hotel/467314.html?isFull=F</td>
+  <td>北京工大建国饭店</td>
+  <td>劲松、潘家园地区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-5</td>
+  <td>http://hotels.ctrip.com/hotel/15718417.html?isFull=F</td>
+  <td>北京君颐百合主题酒店</td>
+  <td>大兴农业生态观光区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-6</td>
+  <td>http://hotels.ctrip.com/hotel/445313.html?isFull=F</td>
+  <td>北京西国贸大酒店</td>
+  <td>北京西站、丽泽商务区总部基地、丰台体育中心、南宫地区</td>
+  <td></td>
+  <td>园林建筑浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-7</td>
+  <td>http://hotels.ctrip.com/hotel/1249518.html?isFull=F</td>
+  <td>北京金枫酒店</td>
+  <td>望京、酒仙桥、798地区首都机场、新国展地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-8</td>
+  <td>http://hotels.ctrip.com/hotel/9557111.html?isFull=F</td>
+  <td>秋果公寓(北京西直门交通大学店)(原秋果酒店)</td>
+  <td>西直门及北京展览馆地区中关村、五道口</td>
+  <td></td>
+  <td>亲子酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-9</td>
+  <td>http://hotels.ctrip.com/hotel/429173.html?isFull=F</td>
+  <td>北京四季御园国际大酒店</td>
+  <td>香山、八大处风景区中关村、五道口</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-10</td>
+  <td>http://hotels.ctrip.com/hotel/457112.html?isFull=F</td>
+  <td>北京行宫国际酒店</td>
+  <td>燕莎、三里屯商业区国贸地区</td>
+  <td></td>
+  <td>温泉酒店浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-11</td>
+  <td>http://hotels.ctrip.com/hotel/469749.html?isFull=F</td>
+  <td>北京玛雅岛酒店</td>
+  <td>总部基地、丰台体育中心、南宫地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-12</td>
+  <td>http://hotels.ctrip.com/hotel/1837777.html?isFull=F</td>
+  <td>桔子酒店·精选(北京三元桥店)</td>
+  <td>国展中心地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>3-13</td>
+  <td>http://hotels.ctrip.com/hotel/456342.html?isFull=F</td>
+  <td>北京国泰饭店</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-14</td>
+  <td>http://hotels.ctrip.com/hotel/1251776.html?isFull=F</td>
+  <td>北京华泰饭店</td>
+  <td>劲松、潘家园地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>3-15</td>
+  <td>http://hotels.ctrip.com/hotel/457234.html?isFull=F</td>
+  <td>北京华尔顿酒店(原鸿坤国际大酒店)</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-16</td>
+  <td>http://hotels.ctrip.com/hotel/1563509.html?isFull=F</td>
+  <td>XY酒店公寓(北京金茂府店)</td>
+  <td>国贸地区劲松、潘家园地区</td>
+  <td></td>
+  <td>公寓浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-17</td>
+  <td>http://hotels.ctrip.com/hotel/4716578.html?isFull=F</td>
+  <td>北京雾灵山庄</td>
+  <td>密云风景区地图</td>
+  <td></td>
+  <td>休闲度假商务出行</td>
+ </tr>
+ <tr>
+  <td>3-18</td>
+  <td>http://hotels.ctrip.com/hotel/5226364.html?isFull=F</td>
+  <td>如家精选酒店(北京东四店)</td>
+  <td>天安门、王府井地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-19</td>
+  <td>http://hotels.ctrip.com/hotel/803817.html?isFull=F</td>
+  <td>北京中谷酒店(原金谷琪珑酒店)</td>
+  <td>北京站、建国门地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-20</td>
+  <td>http://hotels.ctrip.com/hotel/2642089.html?isFull=F</td>
+  <td>北京美第奇精选酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>3-21</td>
+  <td>http://hotels.ctrip.com/hotel/701641.html?isFull=F</td>
+  <td>北京雍景台酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>3-22</td>
+  <td>http://hotels.ctrip.com/hotel/1602274.html?isFull=F</td>
+  <td>北京中国石化会议中心</td>
+  <td>十三陵水库、居庸关长城风景区地图</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>3-23</td>
+  <td>http://hotels.ctrip.com/hotel/1816847.html?isFull=F</td>
+  <td>桔子酒店·精选(北京亚运村店)</td>
+  <td>亚运村、奥体中心地区马甸、安贞地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>3-24</td>
+  <td>http://hotels.ctrip.com/hotel/1285546.html?isFull=F</td>
+  <td>北京工体A. Hotel酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-0</td>
+  <td>http://hotels.ctrip.com/hotel/1008154.html?isFull=F</td>
+  <td>北京商都酒店</td>
+  <td>永定门、南站、大红门、南苑地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-1</td>
+  <td>http://hotels.ctrip.com/hotel/9293254.html?isFull=F</td>
+  <td>漫心酒店(北京前门四合院店)</td>
+  <td>前门、崇文门商贸区天安门、王府井地区</td>
+  <td></td>
+  <td>四合院</td>
+ </tr>
+ <tr>
+  <td>4-2</td>
+  <td>http://hotels.ctrip.com/hotel/1726454.html?isFull=F</td>
+  <td>瑞尔威连锁饭店(北京西客站店)</td>
+  <td>北京西站、丽泽商务区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-3</td>
+  <td>http://hotels.ctrip.com/hotel/2703098.html?isFull=F</td>
+  <td>北京天坛和颐酒店</td>
+  <td>永定门、南站、大红门、南苑地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-4</td>
+  <td>http://hotels.ctrip.com/hotel/760206.html?isFull=F</td>
+  <td>北京四季天成酒店</td>
+  <td>前门、崇文门商贸区永定门、南站、大红门、南苑地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-5</td>
+  <td>http://hotels.ctrip.com/hotel/1067773.html?isFull=F</td>
+  <td>北京圆山大酒店</td>
+  <td>马甸、安贞地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-6</td>
+  <td>http://hotels.ctrip.com/hotel/485588.html?isFull=F</td>
+  <td>北京国谊宾馆</td>
+  <td>西直门及北京展览馆地区西单、金融街地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>4-7</td>
+  <td>http://hotels.ctrip.com/hotel/447443.html?isFull=F</td>
+  <td>飘HOME连锁酒店(北京西客站店)</td>
+  <td>北京西站、丽泽商务区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>4-8</td>
+  <td>http://hotels.ctrip.com/hotel/473871.html?isFull=F</td>
+  <td>北京古巷贰拾号艺术酒店</td>
+  <td>后海、南锣鼓巷地区天安门、王府井地区</td>
+  <td></td>
+  <td>四合院浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-9</td>
+  <td>http://hotels.ctrip.com/hotel/13598382.html?isFull=F</td>
+  <td>桔子酒店·精选(北京光明桥店)</td>
+  <td>前门、崇文门商贸区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-10</td>
+  <td>http://hotels.ctrip.com/hotel/1056339.html?isFull=F</td>
+  <td>北京易尚诺林大酒店</td>
+  <td>北京西站、丽泽商务区地图</td>
+  <td></td>
+  <td>商务出行</td>
+ </tr>
+ <tr>
+  <td>4-11</td>
+  <td>http://hotels.ctrip.com/hotel/442287.html?isFull=F</td>
+  <td>北京天泰宾馆</td>
+  <td>西单、金融街地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-12</td>
+  <td>http://hotels.ctrip.com/hotel/457215.html?isFull=F</td>
+  <td>北京远洋酒店</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-13</td>
+  <td>http://hotels.ctrip.com/hotel/2301928.html?isFull=F</td>
+  <td>桔子酒店(北京西直门北店)</td>
+  <td>西直门及北京展览馆地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>4-14</td>
+  <td>http://hotels.ctrip.com/hotel/1477161.html?isFull=F</td>
+  <td>北京中油宾馆(海淀分部)(原梦溪宾馆)</td>
+  <td>中关村、五道口地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-15</td>
+  <td>http://hotels.ctrip.com/hotel/5448700.html?isFull=F</td>
+  <td>希岸酒店(北京三里屯店)</td>
+  <td>燕莎、三里屯商业区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-16</td>
+  <td>http://hotels.ctrip.com/hotel/6492450.html?isFull=F</td>
+  <td>三只熊轻奢度假别墅(北京古北龙湖源著店)</td>
+  <td>密云风景区地图</td>
+  <td></td>
+  <td>宠物友好</td>
+ </tr>
+ <tr>
+  <td>4-17</td>
+  <td>http://hotels.ctrip.com/hotel/429492.html?isFull=F</td>
+  <td>北京凯盛兴丰国际酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>4-18</td>
+  <td>http://hotels.ctrip.com/hotel/2175163.html?isFull=F</td>
+  <td>北京友方宾馆</td>
+  <td>天安门、王府井地区西单、金融街地区</td>
+  <td></td>
+  <td>四合院浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-19</td>
+  <td>http://hotels.ctrip.com/hotel/6064754.html?isFull=F</td>
+  <td>北京贯通建徽酒店</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>4-20</td>
+  <td>http://hotels.ctrip.com/hotel/2298288.html?isFull=F</td>
+  <td>人民大会堂宾馆</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-21</td>
+  <td>http://hotels.ctrip.com/hotel/744581.html?isFull=F</td>
+  <td>北京中油宾馆</td>
+  <td>马甸、安贞地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-22</td>
+  <td>http://hotels.ctrip.com/hotel/1994702.html?isFull=F</td>
+  <td>桔子酒店·精选(北京学院路店)</td>
+  <td>中关村、五道口亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-23</td>
+  <td>http://hotels.ctrip.com/hotel/1806143.html?isFull=F</td>
+  <td>桔子酒店·精选(北京官园桥店)</td>
+  <td>西单、金融街地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>4-24</td>
+  <td>http://hotels.ctrip.com/hotel/1466503.html?isFull=F</td>
+  <td>北京金泰绿洲大酒店</td>
+  <td>永定门、南站、大红门、南苑地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-0</td>
+  <td>http://hotels.ctrip.com/hotel/1386419.html?isFull=F</td>
+  <td>北京观山邸酒店</td>
+  <td>怀柔风景区地图</td>
+  <td></td>
+  <td>休闲度假</td>
+ </tr>
+ <tr>
+  <td>5-1</td>
+  <td>http://hotels.ctrip.com/hotel/1776800.html?isFull=F</td>
+  <td>轻联富润饭店(北京菜市口店)</td>
+  <td>西单、金融街地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>5-2</td>
+  <td>http://hotels.ctrip.com/hotel/1828164.html?isFull=F</td>
+  <td>桔子酒店·精选(北京亦庄万源街店)</td>
+  <td>亦庄地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-3</td>
+  <td>http://hotels.ctrip.com/hotel/5656624.html?isFull=F</td>
+  <td>XY酒店公寓(北京东直门簋街店)</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>公寓浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-4</td>
+  <td>http://hotels.ctrip.com/hotel/374786.html?isFull=F</td>
+  <td>北京金台夕照酒店</td>
+  <td>前门、崇文门商贸区北京站、建国门地区</td>
+  <td></td>
+  <td>四合院浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-5</td>
+  <td>http://hotels.ctrip.com/hotel/998168.html?isFull=F</td>
+  <td>倪氏海泰大酒店(北京四季青店)</td>
+  <td>中关村、五道口西直门及北京展览馆地区</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>5-6</td>
+  <td>http://hotels.ctrip.com/hotel/1836273.html?isFull=F</td>
+  <td>桔子水晶酒店(北京崇文门店)</td>
+  <td>前门、崇文门商贸区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-7</td>
+  <td>http://hotels.ctrip.com/hotel/1994607.html?isFull=F</td>
+  <td>北京兵团大厦</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>5-8</td>
+  <td>http://hotels.ctrip.com/hotel/2259027.html?isFull=F</td>
+  <td>XY酒店公寓(北京三里屯店)</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>公寓浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-9</td>
+  <td>http://hotels.ctrip.com/hotel/456444.html?isFull=F</td>
+  <td>北京空港远航国际酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-10</td>
+  <td>http://hotels.ctrip.com/hotel/2108742.html?isFull=F</td>
+  <td>北京麦语云栖精品度假别墅</td>
+  <td>密云风景区地图</td>
+  <td></td>
+  <td>别墅休闲度假</td>
+ </tr>
+ <tr>
+  <td>5-11</td>
+  <td>http://hotels.ctrip.com/hotel/1816428.html?isFull=F</td>
+  <td>桔子酒店·精选(北京五棵松店)</td>
+  <td>公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-12</td>
+  <td>http://hotels.ctrip.com/hotel/1732963.html?isFull=F</td>
+  <td>北京东四饭店</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>5-13</td>
+  <td>http://hotels.ctrip.com/hotel/8178705.html?isFull=F</td>
+  <td>北京童年假日优选酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-14</td>
+  <td>http://hotels.ctrip.com/hotel/2137115.html?isFull=F</td>
+  <td>北京行者居酒店</td>
+  <td>劲松、潘家园地区永定门、南站、大红门、南苑地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-15</td>
+  <td>http://hotels.ctrip.com/hotel/1217748.html?isFull=F</td>
+  <td>北京万寿庄宾馆</td>
+  <td>公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>园林建筑休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-16</td>
+  <td>http://hotels.ctrip.com/hotel/4035013.html?isFull=F</td>
+  <td>北京城南旧事精品文化酒店</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>四合院浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-17</td>
+  <td>http://hotels.ctrip.com/hotel/447616.html?isFull=F</td>
+  <td>飘HOME连锁酒店(北京前门大栅栏店)</td>
+  <td>前门、崇文门商贸区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>5-18</td>
+  <td>http://hotels.ctrip.com/hotel/13366625.html?isFull=F</td>
+  <td>如家精选酒店(北京五棵松店)</td>
+  <td>公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-19</td>
+  <td>http://hotels.ctrip.com/hotel/1860548.html?isFull=F</td>
+  <td>北京国宾大厦</td>
+  <td>望京、酒仙桥、798地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-20</td>
+  <td>http://hotels.ctrip.com/hotel/793625.html?isFull=F</td>
+  <td>北京海南大厦</td>
+  <td>国展中心地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>5-21</td>
+  <td>http://hotels.ctrip.com/hotel/5293044.html?isFull=F</td>
+  <td>桔子酒店·精选(北京亦庄荣京西街店)</td>
+  <td>亦庄地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-22</td>
+  <td>http://hotels.ctrip.com/hotel/4033968.html?isFull=F</td>
+  <td>北京新世界如家酒店式公寓</td>
+  <td>前门、崇文门商贸区地图</td>
+  <td></td>
+  <td>公寓宠物友好</td>
+ </tr>
+ <tr>
+  <td>5-23</td>
+  <td>http://hotels.ctrip.com/hotel/6435487.html?isFull=F</td>
+  <td>桔子酒店·精选(北京天坛店)</td>
+  <td>劲松、潘家园地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>5-24</td>
+  <td>http://hotels.ctrip.com/hotel/2605097.html?isFull=F</td>
+  <td>桔子酒店·精选(北京亦庄同济南路店)</td>
+  <td>亦庄地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-0</td>
+  <td>http://hotels.ctrip.com/hotel/1537661.html?isFull=F</td>
+  <td>北京布提克精品酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-1</td>
+  <td>http://hotels.ctrip.com/hotel/2298536.html?isFull=F</td>
+  <td>北京赢家商务酒店</td>
+  <td>中关村、五道口地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-2</td>
+  <td>http://hotels.ctrip.com/hotel/3733282.html?isFull=F</td>
+  <td>桔子酒店·精选(北京西二旗店)</td>
+  <td>上地产业园、西三旗地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-3</td>
+  <td>http://hotels.ctrip.com/hotel/8019672.html?isFull=F</td>
+  <td>北京金岳台精品温泉酒店</td>
+  <td>十三陵水库、居庸关长城风景区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣宠物友好</td>
+ </tr>
+ <tr>
+  <td>6-4</td>
+  <td>http://hotels.ctrip.com/hotel/1609664.html?isFull=F</td>
+  <td>北京塔里木石油酒店</td>
+  <td>亚运村、奥体中心地区中关村、五道口</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-5</td>
+  <td>http://hotels.ctrip.com/hotel/7339240.html?isFull=F</td>
+  <td>魔尔公寓(北京魏公村店)</td>
+  <td>西直门及北京展览馆地区中关村、五道口</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>6-6</td>
+  <td>http://hotels.ctrip.com/hotel/9667001.html?isFull=F</td>
+  <td>桔子酒店·精选(北京大望路店)</td>
+  <td>劲松、潘家园地区欢乐谷游乐区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-7</td>
+  <td>http://hotels.ctrip.com/hotel/6473120.html?isFull=F</td>
+  <td>北京空港蓝湾国际酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>商务出行</td>
+ </tr>
+ <tr>
+  <td>6-8</td>
+  <td>http://hotels.ctrip.com/hotel/763324.html?isFull=F</td>
+  <td>北京西荣阁酒店</td>
+  <td>西直门及北京展览馆地区公主坟、五棵松、石景山游乐园地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-9</td>
+  <td>http://hotels.ctrip.com/hotel/6066094.html?isFull=F</td>
+  <td>北京三里明月酒店</td>
+  <td>西单、金融街地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-10</td>
+  <td>http://hotels.ctrip.com/hotel/2043832.html?isFull=F</td>
+  <td>桔子水晶酒店(北京总部基地店)</td>
+  <td>总部基地、丰台体育中心、南宫地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-11</td>
+  <td>http://hotels.ctrip.com/hotel/5772681.html?isFull=F</td>
+  <td>北京三里屯R-KISS时尚精品酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-12</td>
+  <td>http://hotels.ctrip.com/hotel/1816619.html?isFull=F</td>
+  <td>桔子酒店·精选(北京西直门店)</td>
+  <td>西直门及北京展览馆地区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-13</td>
+  <td>http://hotels.ctrip.com/hotel/2301427.html?isFull=F</td>
+  <td>北京美逸商务酒店</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-14</td>
+  <td>http://hotels.ctrip.com/hotel/1009315.html?isFull=F</td>
+  <td>北京铂郡酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>6-15</td>
+  <td>http://hotels.ctrip.com/hotel/1015572.html?isFull=F</td>
+  <td>北京首都机场丽豪商务酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-16</td>
+  <td>http://hotels.ctrip.com/hotel/7426874.html?isFull=F</td>
+  <td>全季酒店(北京石景山万达西店)(原八角游乐园店)</td>
+  <td>公主坟、五棵松、石景山游乐园地区总部基地、丰台体育中心、南宫地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-17</td>
+  <td>http://hotels.ctrip.com/hotel/1273120.html?isFull=F</td>
+  <td>北京君颐润华酒店</td>
+  <td>北京西站、丽泽商务区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-18</td>
+  <td>http://hotels.ctrip.com/hotel/697540.html?isFull=F</td>
+  <td>贯通现代酒店(北京国展店)</td>
+  <td>国展中心地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-19</td>
+  <td>http://hotels.ctrip.com/hotel/1701265.html?isFull=F</td>
+  <td>北京上园饭店</td>
+  <td>西直门及北京展览馆地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>6-20</td>
+  <td>http://hotels.ctrip.com/hotel/698732.html?isFull=F</td>
+  <td>北京可丽亚宾馆</td>
+  <td>燕莎、三里屯商业区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>6-21</td>
+  <td>http://hotels.ctrip.com/hotel/1816376.html?isFull=F</td>
+  <td>桔子酒店·精选(北京天宁寺店)</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-22</td>
+  <td>http://hotels.ctrip.com/hotel/1436736.html?isFull=F</td>
+  <td>北京华风宾馆</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>6-23</td>
+  <td>http://hotels.ctrip.com/hotel/1497663.html?isFull=F</td>
+  <td>北京河北迎宾馆</td>
+  <td>天安门、王府井地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>四合院</td>
+ </tr>
+ <tr>
+  <td>6-24</td>
+  <td>http://hotels.ctrip.com/hotel/447575.html?isFull=F</td>
+  <td>北京君颐东方饭店</td>
+  <td>公主坟、五棵松、石景山游乐园地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-0</td>
+  <td>http://hotels.ctrip.com/hotel/481108.html?isFull=F</td>
+  <td>北京山水宾馆</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-1</td>
+  <td>http://hotels.ctrip.com/hotel/469544.html?isFull=F</td>
+  <td>北京瑞安宾馆</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-2</td>
+  <td>http://hotels.ctrip.com/hotel/1837769.html?isFull=F</td>
+  <td>桔子酒店·精选(北京望京店)</td>
+  <td>望京、酒仙桥、798地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-3</td>
+  <td>http://hotels.ctrip.com/hotel/391750.html?isFull=F</td>
+  <td>北京四季酒店</td>
+  <td>燕莎、三里屯商业区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>7-4</td>
+  <td>http://hotels.ctrip.com/hotel/1198297.html?isFull=F</td>
+  <td>北京瑰丽酒店</td>
+  <td>国贸地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>温泉酒店园林建筑</td>
+ </tr>
+ <tr>
+  <td>7-5</td>
+  <td>http://hotels.ctrip.com/hotel/429203.html?isFull=F</td>
+  <td>北京励骏酒店</td>
+  <td>天安门、王府井地区西单、金融街地区</td>
+  <td></td>
+  <td>四合院园林建筑</td>
+ </tr>
+ <tr>
+  <td>7-6</td>
+  <td>http://hotels.ctrip.com/hotel/428586.html?isFull=F</td>
+  <td>北京新世纪日航饭店</td>
+  <td>西直门及北京展览馆地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-7</td>
+  <td>http://hotels.ctrip.com/hotel/374787.html?isFull=F</td>
+  <td>北京新侨诺富特饭店</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>7-8</td>
+  <td>http://hotels.ctrip.com/hotel/427807.html?isFull=F</td>
+  <td>北京长富宫饭店</td>
+  <td>北京站、建国门地区国贸地区</td>
+  <td></td>
+  <td>园林建筑休闲度假</td>
+ </tr>
+ <tr>
+  <td>7-9</td>
+  <td>http://hotels.ctrip.com/hotel/374781.html?isFull=F</td>
+  <td>北京首都大酒店</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-10</td>
+  <td>http://hotels.ctrip.com/hotel/749504.html?isFull=F</td>
+  <td>北京百富怡大酒店</td>
+  <td>东直门、工体、雍和宫地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-11</td>
+  <td>http://hotels.ctrip.com/hotel/9215536.html?isFull=F</td>
+  <td>北京泛太平洋酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>休闲度假亲子酒店</td>
+ </tr>
+ <tr>
+  <td>7-12</td>
+  <td>http://hotels.ctrip.com/hotel/434938.html?isFull=F</td>
+  <td>北京华滨国际大酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-13</td>
+  <td>http://hotels.ctrip.com/hotel/437222.html?isFull=F</td>
+  <td>北京贵州大厦</td>
+  <td>国展中心地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>7-14</td>
+  <td>http://hotels.ctrip.com/hotel/347426.html?isFull=F</td>
+  <td>北京东方君悦大酒店</td>
+  <td>天安门、王府井地区北京站、建国门地区</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>7-15</td>
+  <td>http://hotels.ctrip.com/hotel/431639.html?isFull=F</td>
+  <td>北京饭店</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-16</td>
+  <td>http://hotels.ctrip.com/hotel/375511.html?isFull=F</td>
+  <td>北京万达文华酒店</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-17</td>
+  <td>http://hotels.ctrip.com/hotel/391657.html?isFull=F</td>
+  <td>北京朝阳悠唐皇冠假日酒店</td>
+  <td>东直门、工体、雍和宫地区国贸地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-18</td>
+  <td>http://hotels.ctrip.com/hotel/429111.html?isFull=F</td>
+  <td>北京名人国际大酒店</td>
+  <td>亚运村、奥体中心地区马甸、安贞地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-19</td>
+  <td>http://hotels.ctrip.com/hotel/427091.html?isFull=F</td>
+  <td>北京鹏润国际大酒店</td>
+  <td>燕莎、三里屯商业区国展中心地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-20</td>
+  <td>http://hotels.ctrip.com/hotel/429527.html?isFull=F</td>
+  <td>北京崇文门饭店</td>
+  <td>前门、崇文门商贸区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-21</td>
+  <td>http://hotels.ctrip.com/hotel/375096.html?isFull=F</td>
+  <td>北京北辰五洲皇冠国际酒店</td>
+  <td>亚运村、奥体中心地区国展中心地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-22</td>
+  <td>http://hotels.ctrip.com/hotel/9371514.html?isFull=F</td>
+  <td>北京东直门雅辰悦居酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>7-23</td>
+  <td>http://hotels.ctrip.com/hotel/6806947.html?isFull=F</td>
+  <td>北京宝格丽酒店</td>
+  <td>燕莎、三里屯商业区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>7-24</td>
+  <td>http://hotels.ctrip.com/hotel/375126.html?isFull=F</td>
+  <td>北京5L饭店(原国贸饭店)</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-0</td>
+  <td>http://hotels.ctrip.com/hotel/5470464.html?isFull=F</td>
+  <td>北京三里屯CHAO酒店</td>
+  <td>东直门、工体、雍和宫地区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-1</td>
+  <td>http://hotels.ctrip.com/hotel/347310.html?isFull=F</td>
+  <td>北京长城饭店</td>
+  <td>燕莎、三里屯商业区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-2</td>
+  <td>http://hotels.ctrip.com/hotel/14095879.html?isFull=F</td>
+  <td>北京上地CitiGO House酒店</td>
+  <td>上地产业园、西三旗中关村、五道口</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-3</td>
+  <td>http://hotels.ctrip.com/hotel/369745.html?isFull=F</td>
+  <td>北京希尔顿逸林酒店</td>
+  <td>北京西站、丽泽商务区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-4</td>
+  <td>http://hotels.ctrip.com/hotel/369708.html?isFull=F</td>
+  <td>北京首都机场希尔顿酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-5</td>
+  <td>http://hotels.ctrip.com/hotel/735707.html?isFull=F</td>
+  <td>北京华尔道夫酒店</td>
+  <td>天安门、王府井地区西单、金融街地区</td>
+  <td></td>
+  <td>四合院浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-6</td>
+  <td>http://hotels.ctrip.com/hotel/429533.html?isFull=F</td>
+  <td>北京昆泰嘉华酒店</td>
+  <td>东直门、工体、雍和宫地区国贸地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-7</td>
+  <td>http://hotels.ctrip.com/hotel/1047921.html?isFull=F</td>
+  <td>古北水镇大酒店</td>
+  <td>密云风景区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>8-8</td>
+  <td>http://hotels.ctrip.com/hotel/387045.html?isFull=F</td>
+  <td>北京金融街威斯汀大酒店</td>
+  <td>西单、金融街地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>休闲度假亲子酒店</td>
+ </tr>
+ <tr>
+  <td>8-9</td>
+  <td>http://hotels.ctrip.com/hotel/443694.html?isFull=F</td>
+  <td>北京天伦松鹤大饭店</td>
+  <td>天安门、王府井地区东直门、工体、雍和宫地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-10</td>
+  <td>http://hotels.ctrip.com/hotel/374783.html?isFull=F</td>
+  <td>北京唐拉雅秀酒店</td>
+  <td>西单、金融街地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-11</td>
+  <td>http://hotels.ctrip.com/hotel/431407.html?isFull=F</td>
+  <td>北京宣武门商务酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>8-12</td>
+  <td>http://hotels.ctrip.com/hotel/374795.html?isFull=F</td>
+  <td>北京伯豪瑞廷酒店</td>
+  <td>国贸地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-13</td>
+  <td>http://hotels.ctrip.com/hotel/429158.html?isFull=F</td>
+  <td>北京贵宾楼饭店</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>8-14</td>
+  <td>http://hotels.ctrip.com/hotel/426113.html?isFull=F</td>
+  <td>北京世纪金源大饭店</td>
+  <td>西直门及北京展览馆地区中关村、五道口</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>8-15</td>
+  <td>http://hotels.ctrip.com/hotel/436894.html?isFull=F</td>
+  <td>飘HOME连锁酒店(北京王府井店)</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>8-16</td>
+  <td>http://hotels.ctrip.com/hotel/347414.html?isFull=F</td>
+  <td>北京希尔顿酒店</td>
+  <td>燕莎、三里屯商业区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-17</td>
+  <td>http://hotels.ctrip.com/hotel/4889269.html?isFull=F</td>
+  <td>北京维景国际大酒店</td>
+  <td>国展中心地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-18</td>
+  <td>http://hotels.ctrip.com/hotel/763469.html?isFull=F</td>
+  <td>锦江之星(北京奥体中心店)</td>
+  <td>亚运村、奥体中心地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>8-19</td>
+  <td>http://hotels.ctrip.com/hotel/430030.html?isFull=F</td>
+  <td>北京宝辰饭店</td>
+  <td>北京站、建国门地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-20</td>
+  <td>http://hotels.ctrip.com/hotel/374792.html?isFull=F</td>
+  <td>北京王府半岛酒店</td>
+  <td>天安门、王府井地区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-21</td>
+  <td>http://hotels.ctrip.com/hotel/374801.html?isFull=F</td>
+  <td>北京华威商务酒店</td>
+  <td>西单、金融街地区天安门、王府井地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-22</td>
+  <td>http://hotels.ctrip.com/hotel/374791.html?isFull=F</td>
+  <td>北京京伦饭店</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>8-23</td>
+  <td>http://hotels.ctrip.com/hotel/5032132.html?isFull=F</td>
+  <td>北京泰富酒店</td>
+  <td>中关村、五道口亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>8-24</td>
+  <td>http://hotels.ctrip.com/hotel/429511.html?isFull=F</td>
+  <td>北京民族饭店</td>
+  <td>西单、金融街地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>9-0</td>
+  <td>http://hotels.ctrip.com/hotel/837819.html?isFull=F</td>
+  <td>北京裕龙国际酒店</td>
+  <td>公主坟、五棵松、石景山游乐园地区西直门及北京展览馆地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-1</td>
+  <td>http://hotels.ctrip.com/hotel/347308.html?isFull=F</td>
+  <td>北京王府井希尔顿酒店</td>
+  <td>天安门、王府井地区西单、金融街地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-2</td>
+  <td>http://hotels.ctrip.com/hotel/369675.html?isFull=F</td>
+  <td>北京国贸大酒店</td>
+  <td>国贸地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-3</td>
+  <td>http://hotels.ctrip.com/hotel/429503.html?isFull=F</td>
+  <td>北京丽都维景酒店</td>
+  <td>望京、酒仙桥、798地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-4</td>
+  <td>http://hotels.ctrip.com/hotel/482983.html?isFull=F</td>
+  <td>北京前门建国饭店</td>
+  <td>前门、崇文门商贸区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-5</td>
+  <td>http://hotels.ctrip.com/hotel/467325.html?isFull=F</td>
+  <td>北京亮马河饭店</td>
+  <td>燕莎、三里屯商业区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-6</td>
+  <td>http://hotels.ctrip.com/hotel/457172.html?isFull=F</td>
+  <td>北京元辰鑫国际酒店</td>
+  <td>马甸、安贞地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-7</td>
+  <td>http://hotels.ctrip.com/hotel/793504.html?isFull=F</td>
+  <td>北京凤凰苏源大厦</td>
+  <td>北京西站、丽泽商务区西单、金融街地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>9-8</td>
+  <td>http://hotels.ctrip.com/hotel/444709.html?isFull=F</td>
+  <td>北京五洲大酒店</td>
+  <td>亚运村、奥体中心地区国展中心地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-9</td>
+  <td>http://hotels.ctrip.com/hotel/427870.html?isFull=F</td>
+  <td>北京国际饭店</td>
+  <td>北京站、建国门地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-10</td>
+  <td>http://hotels.ctrip.com/hotel/375093.html?isFull=F</td>
+  <td>北京首都机场东海康得思酒店(原朗豪酒店)</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-11</td>
+  <td>http://hotels.ctrip.com/hotel/375507.html?isFull=F</td>
+  <td>北京港澳中心瑞士酒店</td>
+  <td>东直门、工体、雍和宫地区天安门、王府井地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-12</td>
+  <td>http://hotels.ctrip.com/hotel/345029.html?isFull=F</td>
+  <td>北京西单美爵酒店</td>
+  <td>西单、金融街地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-13</td>
+  <td>http://hotels.ctrip.com/hotel/468844.html?isFull=F</td>
+  <td>北京大成路九号</td>
+  <td>公主坟、五棵松、石景山游乐园地区总部基地、丰台体育中心、南宫地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-14</td>
+  <td>http://hotels.ctrip.com/hotel/419993.html?isFull=F</td>
+  <td>北京华侨大厦</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-15</td>
+  <td>http://hotels.ctrip.com/hotel/2266278.html?isFull=F</td>
+  <td>北京麒麟外交公寓</td>
+  <td>东直门、工体、雍和宫地区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-16</td>
+  <td>http://hotels.ctrip.com/hotel/984991.html?isFull=F</td>
+  <td>北京中乐六星酒店</td>
+  <td>劲松、潘家园地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-17</td>
+  <td>http://hotels.ctrip.com/hotel/431897.html?isFull=F</td>
+  <td>北京涵珍园国际酒店</td>
+  <td>后海、南锣鼓巷地区天安门、王府井地区</td>
+  <td></td>
+  <td>四合院园林建筑浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-18</td>
+  <td>http://hotels.ctrip.com/hotel/436258.html?isFull=F</td>
+  <td>北京珀丽酒店</td>
+  <td>望京、酒仙桥、798地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-19</td>
+  <td>http://hotels.ctrip.com/hotel/437721.html?isFull=F</td>
+  <td>北京福建大厦</td>
+  <td>马甸、安贞地区亚运村、奥体中心地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-20</td>
+  <td>http://hotels.ctrip.com/hotel/5659815.html?isFull=F</td>
+  <td>北京三里屯通盈中心洲际酒店</td>
+  <td>东直门、工体、雍和宫地区燕莎、三里屯商业区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-21</td>
+  <td>http://hotels.ctrip.com/hotel/437440.html?isFull=F</td>
+  <td>北京乾元酒店</td>
+  <td>东直门、工体、雍和宫地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>9-22</td>
+  <td>http://hotels.ctrip.com/hotel/427874.html?isFull=F</td>
+  <td>北京好苑建国酒店</td>
+  <td>北京站、建国门地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>9-23</td>
+  <td>http://hotels.ctrip.com/hotel/419951.html?isFull=F</td>
+  <td>北京柏悦酒店</td>
+  <td>国贸地区北京站、建国门地区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>9-24</td>
+  <td>http://hotels.ctrip.com/hotel/452641.html?isFull=F</td>
+  <td>北京日坛宾馆</td>
+  <td>东直门、工体、雍和宫地区国贸地区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-0</td>
+  <td>http://hotels.ctrip.com/hotel/431870.html?isFull=F</td>
+  <td>北京江西大酒店</td>
+  <td>劲松、潘家园地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-1</td>
+  <td>http://hotels.ctrip.com/hotel/895549.html?isFull=F</td>
+  <td>北京龙城温德姆酒店(原龙城丽宫国际酒店)</td>
+  <td>小汤山温泉度假区上地产业园、西三旗</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-2</td>
+  <td>http://hotels.ctrip.com/hotel/443416.html?isFull=F</td>
+  <td>北京金龙建国温泉酒店</td>
+  <td>北京站、建国门地区国贸地区</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>10-3</td>
+  <td>http://hotels.ctrip.com/hotel/429507.html?isFull=F</td>
+  <td>北京贵都大酒店</td>
+  <td>西单、金融街地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-4</td>
+  <td>http://hotels.ctrip.com/hotel/1707138.html?isFull=F</td>
+  <td>北京雁栖酒店</td>
+  <td>怀柔风景区地图</td>
+  <td></td>
+  <td>园林建筑休闲度假</td>
+ </tr>
+ <tr>
+  <td>10-5</td>
+  <td>http://hotels.ctrip.com/hotel/429484.html?isFull=F</td>
+  <td>北京东煌凯丽酒店</td>
+  <td>望京、酒仙桥、798地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-6</td>
+  <td>http://hotels.ctrip.com/hotel/447703.html?isFull=F</td>
+  <td>北京中国职工之家饭店</td>
+  <td>西单、金融街地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-7</td>
+  <td>http://hotels.ctrip.com/hotel/6684925.html?isFull=F</td>
+  <td>全季酒店(北京首都机场店)</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>10-8</td>
+  <td>http://hotels.ctrip.com/hotel/396427.html?isFull=F</td>
+  <td>北京东方花园饭店</td>
+  <td>东直门、工体、雍和宫地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-9</td>
+  <td>http://hotels.ctrip.com/hotel/534568.html?isFull=F</td>
+  <td>北京首都机场国际酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-10</td>
+  <td>http://hotels.ctrip.com/hotel/429044.html?isFull=F</td>
+  <td>北京泰悦豪庭酒店</td>
+  <td>燕莎、三里屯商业区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-11</td>
+  <td>http://hotels.ctrip.com/hotel/436078.html?isFull=F</td>
+  <td>北京十渡云泽山庄生态度假酒店</td>
+  <td>房山风景区地图</td>
+  <td></td>
+  <td>温泉酒店休闲度假</td>
+ </tr>
+ <tr>
+  <td>10-12</td>
+  <td>http://hotels.ctrip.com/hotel/457240.html?isFull=F</td>
+  <td>北京美泉宫饭店</td>
+  <td>公主坟、五棵松、石景山游乐园地区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-13</td>
+  <td>http://hotels.ctrip.com/hotel/457228.html?isFull=F</td>
+  <td>北京国宏宾馆</td>
+  <td>西单、金融街地区北京西站、丽泽商务区</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-14</td>
+  <td>http://hotels.ctrip.com/hotel/5910043.html?isFull=F</td>
+  <td>麗枫酒店(北京南站木樨园店)</td>
+  <td>永定门、南站、大红门、南苑地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-15</td>
+  <td>http://hotels.ctrip.com/hotel/431651.html?isFull=F</td>
+  <td>北京香江戴斯酒店</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>四合院浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-16</td>
+  <td>http://hotels.ctrip.com/hotel/1004421.html?isFull=F</td>
+  <td>全季酒店(北京东直门店)</td>
+  <td>东直门、工体、雍和宫地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-17</td>
+  <td>http://hotels.ctrip.com/hotel/345025.html?isFull=F</td>
+  <td>北京中奥马哥孛罗大酒店</td>
+  <td>亚运村、奥体中心地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-18</td>
+  <td>http://hotels.ctrip.com/hotel/2285017.html?isFull=F</td>
+  <td>7天连锁酒店(北京首都机场店)</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>10-19</td>
+  <td>http://hotels.ctrip.com/hotel/451176.html?isFull=F</td>
+  <td>北京世纪星豪酒店</td>
+  <td>中关村、五道口西直门及北京展览馆地区</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-20</td>
+  <td>http://hotels.ctrip.com/hotel/2277948.html?isFull=F</td>
+  <td>北京亚太花园酒店</td>
+  <td>果园环岛、通州区地图</td>
+  <td></td>
+  <td>休闲度假浪漫情侣商务出行</td>
+ </tr>
+ <tr>
+  <td>10-21</td>
+  <td>http://hotels.ctrip.com/hotel/443555.html?isFull=F</td>
+  <td>北京东方文苑宾馆(王府井店)</td>
+  <td>天安门、王府井地区前门、崇文门商贸区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>10-22</td>
+  <td>http://hotels.ctrip.com/hotel/425031.html?isFull=F</td>
+  <td>北京丽亭酒店</td>
+  <td>天安门、王府井地区地图</td>
+  <td></td>
+  <td>浪漫情侣</td>
+ </tr>
+ <tr>
+  <td>10-23</td>
+  <td>http://hotels.ctrip.com/hotel/6410223.html?isFull=F</td>
+  <td>北京赛特饭店</td>
+  <td>北京站、建国门地区国贸地区</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>10-24</td>
+  <td>http://hotels.ctrip.com/hotel/1781207.html?isFull=F</td>
+  <td>北京亚美国际酒店</td>
+  <td>首都机场、新国展地区地图</td>
+  <td></td>
+  <td>浪漫情侣商务出行</td>
+ </tr>
+</table>
